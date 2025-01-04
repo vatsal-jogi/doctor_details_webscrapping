@@ -1,0 +1,155 @@
+2025-01-04 10:03:08,896 - INFO - Found 29 doctor profiles.
+2025-01-04 10:03:08,907 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-neel-gohil
+2025-01-04 10:03:08,931 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-komal-patel
+2025-01-04 10:03:08,939 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-shyam-gohil
+2025-01-04 10:03:08,973 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-atul-patel
+2025-01-04 10:03:08,981 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-dhwani-gohil
+2025-01-04 10:03:09,013 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-madhavi-barai
+2025-01-04 10:03:09,035 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-kartik-morjaria-1
+2025-01-04 10:03:09,058 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-nilesh-n.-raval
+2025-01-04 10:03:09,082 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-jayesh-patel
+2025-01-04 10:03:09,106 - INFO - Added doctor URL: https://drlogy.com/rajkot/doctor/dr-nilesh-makadia
+2025-01-04 10:03:09,132 - INFO - Processing doctor 1/10: https://drlogy.com/rajkot/doctor/dr-neel-gohil
+2025-01-04 10:03:09,763 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-neel-gohil
+2025-01-04 10:03:09,801 - INFO - Extracted doctor's name: Dr. Neel Gohil
+2025-01-04 10:03:09,818 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:09,833 - INFO - Extracted 0 languages.
+2025-01-04 10:03:09,873 - INFO - Extracted 1 education entries.
+2025-01-04 10:03:09,913 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:09,954 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:10,041 - INFO - Found 3 memberships using Attempt 1.
+2025-01-04 10:03:10,092 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:10,128 - INFO - Extracted 1 timings.
+2025-01-04 10:03:10,476 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-neel-gohil/services
+2025-01-04 10:03:13,068 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-neel-gohil/services
+2025-01-04 10:03:13,068 - INFO - Successfully extracted data for Dr. Neel Gohil.
+2025-01-04 10:03:15,069 - INFO - Processing doctor 2/10: https://drlogy.com/rajkot/doctor/dr-komal-patel
+2025-01-04 10:03:15,439 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-komal-patel
+2025-01-04 10:03:15,465 - INFO - Extracted doctor's name: Dr. Komal Patel
+2025-01-04 10:03:15,476 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:15,487 - INFO - Extracted 0 languages.
+2025-01-04 10:03:15,521 - INFO - Extracted 1 education entries.
+2025-01-04 10:03:15,553 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:15,581 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:15,619 - INFO - No memberships found using any attempts.
+2025-01-04 10:03:15,651 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:15,680 - INFO - Extracted 1 timings.
+2025-01-04 10:03:16,294 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-komal-patel/services
+2025-01-04 10:03:18,557 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-komal-patel/services
+2025-01-04 10:03:18,557 - INFO - Successfully extracted data for Dr. Komal Patel.
+2025-01-04 10:03:20,558 - INFO - Processing doctor 3/10: https://drlogy.com/rajkot/doctor/dr-shyam-gohil
+2025-01-04 10:03:21,073 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-shyam-gohil
+2025-01-04 10:03:21,096 - INFO - Extracted doctor's name: Dr. Shyam Gohil
+2025-01-04 10:03:21,106 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:21,116 - INFO - Extracted 0 languages.
+2025-01-04 10:03:21,152 - INFO - Extracted 1 education entries.
+2025-01-04 10:03:21,186 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:21,220 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:21,303 - INFO - Found 3 memberships using Attempt 1.
+2025-01-04 10:03:21,339 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:21,403 - INFO - Extracted 2 timings.
+2025-01-04 10:03:22,028 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-shyam-gohil/services
+2025-01-04 10:03:24,152 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-shyam-gohil/services
+2025-01-04 10:03:24,152 - INFO - Successfully extracted data for Dr. Shyam Gohil.
+2025-01-04 10:03:26,153 - INFO - Processing doctor 4/10: https://drlogy.com/rajkot/doctor/dr-atul-patel
+2025-01-04 10:03:26,566 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-atul-patel
+2025-01-04 10:03:26,601 - INFO - Extracted doctor's name: Dr. Atul Patel
+2025-01-04 10:03:26,612 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:26,622 - INFO - Extracted 0 languages.
+2025-01-04 10:03:26,660 - INFO - Extracted 1 education entries.
+2025-01-04 10:03:26,698 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:26,734 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:26,767 - INFO - No memberships found using any attempts.
+2025-01-04 10:03:26,800 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:26,835 - INFO - Extracted 1 timings.
+2025-01-04 10:03:27,129 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-atul-patel/services
+2025-01-04 10:03:29,316 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-atul-patel/services
+2025-01-04 10:03:29,316 - INFO - Successfully extracted data for Dr. Atul Patel.
+2025-01-04 10:03:31,317 - INFO - Processing doctor 5/10: https://drlogy.com/rajkot/doctor/dr-dhwani-gohil
+2025-01-04 10:03:31,713 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-dhwani-gohil
+2025-01-04 10:03:31,747 - INFO - Extracted doctor's name: Dr. Dhwani Gohil
+2025-01-04 10:03:31,758 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:31,767 - INFO - Extracted 0 languages.
+2025-01-04 10:03:31,828 - INFO - Extracted 2 education entries.
+2025-01-04 10:03:31,864 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:31,903 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:31,966 - INFO - Found 2 memberships using Attempt 1.
+2025-01-04 10:03:32,030 - INFO - Extracted 2 clinic fees.
+2025-01-04 10:03:32,095 - INFO - Extracted 2 timings.
+2025-01-04 10:03:32,568 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-dhwani-gohil/services
+2025-01-04 10:03:34,708 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-dhwani-gohil/services
+2025-01-04 10:03:34,708 - INFO - Successfully extracted data for Dr. Dhwani Gohil.
+2025-01-04 10:03:36,709 - INFO - Processing doctor 6/10: https://drlogy.com/rajkot/doctor/dr-madhavi-barai
+2025-01-04 10:03:37,173 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-madhavi-barai
+2025-01-04 10:03:37,202 - INFO - Extracted doctor's name: Dr. Madhavi Tanna
+2025-01-04 10:03:37,239 - INFO - Extracted 1 specializations.
+2025-01-04 10:03:37,251 - INFO - Extracted 0 languages.
+2025-01-04 10:03:37,400 - INFO - Extracted 4 education entries.
+2025-01-04 10:03:37,439 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:37,584 - INFO - Extracted 5 experiences.
+2025-01-04 10:03:37,686 - INFO - Found 4 memberships using Attempt 1.
+2025-01-04 10:03:37,721 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:37,770 - INFO - Extracted 1 timings.
+2025-01-04 10:03:38,232 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-madhavi-barai/services
+2025-01-04 10:03:40,785 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-madhavi-barai/services
+2025-01-04 10:03:40,785 - INFO - Successfully extracted data for Dr. Madhavi Tanna.
+2025-01-04 10:03:42,785 - INFO - Processing doctor 7/10: https://drlogy.com/rajkot/doctor/dr-kartik-morjaria-1
+2025-01-04 10:03:43,118 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-kartik-morjaria-1
+2025-01-04 10:03:43,145 - INFO - Extracted doctor's name: Dr. Kartik Morjaria
+2025-01-04 10:03:43,156 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:43,165 - INFO - Extracted 0 languages.
+2025-01-04 10:03:43,219 - INFO - Extracted 2 education entries.
+2025-01-04 10:03:43,253 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:43,284 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:43,336 - INFO - Found 2 memberships using Attempt 1.
+2025-01-04 10:03:43,368 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:43,401 - INFO - Extracted 1 timings.
+2025-01-04 10:03:43,712 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-kartik-morjaria-1/services
+2025-01-04 10:03:46,457 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-kartik-morjaria-1/services
+2025-01-04 10:03:46,457 - INFO - Successfully extracted data for Dr. Kartik Morjaria.
+2025-01-04 10:03:48,458 - INFO - Processing doctor 8/10: https://drlogy.com/rajkot/doctor/dr-nilesh-n.-raval
+2025-01-04 10:03:48,868 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-nilesh-n.-raval
+2025-01-04 10:03:48,891 - INFO - Extracted doctor's name: Dr. Nilesh N. Raval
+2025-01-04 10:03:48,901 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:48,910 - INFO - Extracted 0 languages.
+2025-01-04 10:03:48,989 - INFO - Extracted 3 education entries.
+2025-01-04 10:03:49,021 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:49,053 - INFO - Extracted 1 experiences.
+2025-01-04 10:03:49,085 - INFO - Found 1 memberships using Attempt 1.
+2025-01-04 10:03:49,124 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:49,161 - INFO - Extracted 1 timings.
+2025-01-04 10:03:49,497 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-nilesh-n.-raval/services
+2025-01-04 10:03:51,870 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-nilesh-n.-raval/services
+2025-01-04 10:03:51,870 - INFO - Successfully extracted data for Dr. Nilesh N. Raval.
+2025-01-04 10:03:53,871 - INFO - Processing doctor 9/10: https://drlogy.com/rajkot/doctor/dr-jayesh-patel
+2025-01-04 10:03:54,471 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-jayesh-patel
+2025-01-04 10:03:54,496 - INFO - Extracted doctor's name: Dr. Jayesh Patel
+2025-01-04 10:03:54,507 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:54,516 - INFO - Extracted 0 languages.
+2025-01-04 10:03:54,603 - INFO - Extracted 3 education entries.
+2025-01-04 10:03:54,639 - INFO - Extracted 1 registrations.
+2025-01-04 10:03:54,731 - INFO - Extracted 3 experiences.
+2025-01-04 10:03:54,763 - INFO - Found 1 memberships using Attempt 1.
+2025-01-04 10:03:54,796 - INFO - Extracted 1 clinic fees.
+2025-01-04 10:03:54,829 - INFO - Extracted 1 timings.
+2025-01-04 10:03:55,197 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-jayesh-patel/services
+2025-01-04 10:03:57,373 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-jayesh-patel/services
+2025-01-04 10:03:57,374 - INFO - Successfully extracted data for Dr. Jayesh Patel.
+2025-01-04 10:03:59,374 - INFO - Processing doctor 10/10: https://drlogy.com/rajkot/doctor/dr-nilesh-makadia
+2025-01-04 10:03:59,916 - INFO - Navigated to doctor's profile page: https://drlogy.com/rajkot/doctor/dr-nilesh-makadia
+2025-01-04 10:03:59,940 - INFO - Extracted doctor's name: Dr. Nilesh Makadia
+2025-01-04 10:03:59,950 - INFO - Extracted 0 specializations.
+2025-01-04 10:03:59,959 - INFO - Extracted 0 languages.
+2025-01-04 10:04:00,044 - INFO - Extracted 3 education entries.
+2025-01-04 10:04:00,077 - INFO - Extracted 1 registrations.
+2025-01-04 10:04:00,140 - INFO - Extracted 2 experiences.
+2025-01-04 10:04:00,172 - INFO - Found 1 memberships using Attempt 1.
+2025-01-04 10:04:00,231 - INFO - Extracted 2 clinic fees.
+2025-01-04 10:04:00,290 - INFO - Extracted 2 timings.
+2025-01-04 10:04:00,658 - INFO - Navigated to Services page: https://drlogy.com/rajkot/doctor/dr-nilesh-makadia/services
+2025-01-04 10:04:02,893 - INFO - Found 0 services on https://drlogy.com/rajkot/doctor/dr-nilesh-makadia/services
+2025-01-04 10:04:02,893 - INFO - Successfully extracted data for Dr. Nilesh Makadia.
+2025-01-04 10:04:04,651 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/eaf2113c19196add020ee85de46f7f9a
+2025-01-04 10:04:08,765 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DB2BC5810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/eaf2113c19196add020ee85de46f7f9a
+2025-01-04 10:04:12,861 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DB2BC5950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/eaf2113c19196add020ee85de46f7f9a
+2025-01-04 10:04:21,052 - INFO - WebDriver closed. Script finished.

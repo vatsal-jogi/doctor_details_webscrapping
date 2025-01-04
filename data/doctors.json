@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Dr. Neel Gohil",
+        "qualification": "MS - Orthopaedics",
+        "specialty": "Orthopaedic, Sport Injury Specialist, Sports Medicine Specialist, Sports Medicine Surgeon, Sports Nutritionist, Trauma Surgeon",
+        "experience": "5 Years experience",
+        "clinic": "Akshar Orthopedic Hospital",
+        "location": "Astron chowk, Rajkot",
+        "fee": "payments ₹ 1000 at Clinic"
+    },
+    {
+        "name": "Dr. Komal Patel",
+        "qualification": "B. D. S",
+        "specialty": "Dental Surgeon",
+        "experience": "4 Years experience",
+        "clinic": "Shreeji dental clinic & implant center",
+        "location": "Mavdi, Rajkot",
+        "fee": "payments ₹ 100 at Clinic"
+    },
+    {
+        "name": "Dr. Shyam Gohil",
+        "qualification": "MS",
+        "specialty": "Orthopaedic",
+        "experience": "30 Years experience",
+        "clinic": "Akshar Orthopedic Hospital | +1 More",
+        "location": "Astron chowk, Rajkot",
+        "fee": "payments ₹ 800 at Clinic"
+    },
+    {
+        "name": "Dr. Atul Patel",
+        "qualification": "B. D. S",
+        "specialty": "Dental Surgeon",
+        "experience": "5 Years experience",
+        "clinic": "Shreeji dental clinic & implant center",
+        "location": "Mavdi, Rajkot",
+        "fee": "payments ₹ 100 at Clinic"
+    },
+    {
+        "name": "Dr. Dhwani Gohil",
+        "qualification": "BDS, MDS - Periodontology and Oral Implantology",
+        "specialty": "Dentist",
+        "experience": "10 Years experience",
+        "clinic": "Akshar Orthopedic Hospital | +1 More",
+        "location": "Astron chowk, Rajkot",
+        "fee": "payments ₹ 300 at Clinic"
+    },
+    {
+        "name": "Dr. Madhavi Tanna",
+        "qualification": "B. D. S, Certificate in Cosmetic Dentistry, Fellowship in cosmetic dentistry, Forensic Odontologist",
+        "specialty": "Cosmetic or Aesthetic Dentist, Dental Surgeon, Dentist, Forensic Dentist, Geriatric Dentist, Implantologist, Preventive Dentistry, Primary Care Dentist, Public Health Dentist, Restorative Dentist, Veterinary Dentist",
+        "experience": "10 Years experience",
+        "clinic": "Avadhesh Dental Studio",
+        "location": "Kalawad Road, Rajkot",
+        "fee": "payments ₹ 200 at Clinic"
+    },
+    {
+        "name": "Dr. Kartik Morjaria",
+        "qualification": "B. D. S, MDS - Prosthodontics",
+        "specialty": "Cosmetic or Aesthetic Dentist, Dental Surgeon, Dentist, Implantologist, Prosthodontist",
+        "experience": "9 Years experience",
+        "clinic": "Dr. Morjaria's Advanced Dental Clinic",
+        "location": "Sadhu Vasvani Road, Rajkot",
+        "fee": "payments ₹ 250 at Clinic"
+    },
+    {
+        "name": "Dr. Nilesh N. Raval",
+        "qualification": "M. D. S, Master in laser, B. D. S",
+        "specialty": "Dentist",
+        "experience": "29 Years experience",
+        "clinic": "Aditya Dental Clinic And laser Center",
+        "location": "University Road, Rajkot",
+        "fee": "payments ₹ 300 at Clinic"
+    },
+    {
+        "name": "Dr. Jayesh Patel",
+        "qualification": "MBBS, Diploma in Otorhinolaryngology (DLO), MS - ENT",
+        "specialty": "Ear-Nose-Throat-ENT Specialist, ENT Head and Neck Surgeon, ENT Specialist",
+        "experience": "22 Years experience",
+        "clinic": "Shrey Hospital",
+        "location": "Mavdi, Rajkot",
+        "fee": "payments ₹ 500 at Clinic"
+    },
+    {
+        "name": "Dr. Nilesh Makadia",
+        "qualification": "MBBS, MD, DNB Cardiology (Gold Medalist)",
+        "specialty": "Cardiologist, Interventional Cardiologist",
+        "experience": "15 Years experience",
+        "clinic": "Synergy Hospital | +1 More",
+        "location": "150 Feet Ring Road, Rajkot",
+        "fee": "payments ₹ 1000 at Clinic"
+    }
+]
